@@ -19,24 +19,6 @@ Mahasiswa Politeknik Keuangan Negara STAN (Manajemen Keuangan Negara) yang memil
 - **AOS (Animate on Scroll)** (Library Animasi CSS)
 - **Google Fonts** (Space Grotesk & Inter)
 
-## 🚀 Cara Menjalankan di Komputer (Lokal)
-1. Lakukan *clone* pada repositori ini:
-   ```bash
-   git clone https://github.com/muhammadarifikrianto-stack/portfolio-ari.git
-   ```
-2. Pastikan file gambar berikut berada di dalam folder yang sama dengan `index.html`:
-   - `WhatsApp Image 2026-07-26 at 09.41.20.jpeg`
-   - `logo X.svg.webp`
-   - `wallhaven-d5d1em.png`
-3. Buka file `index.html` menggunakan *browser* pilihan Anda (Chrome, Firefox, Safari) atau gunakan ekstensi **Live Server** jika Anda memakai Visual Studio Code.
-
-## 🌐 Cara Publikasi (Deploy)
-Website statis ini dirancang agar bisa langsung *live* secara gratis:
-- **GitHub Pages:** 
-  Masuk ke repositori Anda -> *Settings* -> *Pages* -> Pilih branch `main` pada bagian *Source* -> *Save*.
-- **Netlify:** 
-  Cukup *drag & drop* folder proyek ini ke halaman *dashboard* [Netlify Drop](https://app.netlify.com/drop).
-
 ## 📫 Mari Terhubung!
 Punya ide seru? Atau sekadar mau bahas kenapa error kodingan sering bikin kita *staring into the void* berjam-jam? Mari belajar dan berkembang bersama:
 - [YouTube](https://www.youtube.com/@MuhammadAriFikrianto)
@@ -44,6 +26,7 @@ Punya ide seru? Atau sekadar mau bahas kenapa error kodingan sering bikin kita *
 - [X (Twitter)](https://x.com/MAriFikrianto)
 - [Telegram](https://t.me/MuhammadAriFikrianto)
 - [GitHub](https://github.com/muhammadarifikrianto-stack)
+
 
 ---
 *Dibuat dengan 💻 dan ☕ oleh Muhammad Ari Fikrianto - 2026*
